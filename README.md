@@ -61,9 +61,12 @@
 Цикл разработки движка.
 
 ### Что почитать/посмотреть про ECS (entity component system)?
-Вот здесь собраны основные примеры: https://github.com/jslee02/awesome-entity-component-system
-Статья на русском: https://habr.com/ru/company/pixonic/blog/413729/
-Юнити подобная ECS для своего движка (на С++) - https://github.com/Ubpa/UECS
+
+- Вот здесь собраны основные примеры: https://github.com/jslee02/awesome-entity-component-system
+
+- Статья на русском: https://habr.com/ru/company/pixonic/blog/413729/
+
+- Юнити подобная ECS для своего движка (на С++) - https://github.com/Ubpa/UECS
 
 
 
