@@ -35,19 +35,19 @@
 
 #### Книги
 
-##### Game Engine Architecture by Jason Gregory 
+- Game Engine Architecture by Jason Gregory 
 Книга, полностью вводящая в движкоделие от А до Я.  Сейчас актуальна третья редакция.
 
-##### 3D Math Primer for Graphics and Game Development 2nd Edition by Fletcher Dunn 
-##### Foundations of Game Engine Development, Volume 1: Mathematics 1st Edition by Eric Lengyel
-##### Mathematics for 3D Game Programming and Computer Graphics, Third Edition 3rd Edition by Eric Lengyel 
+- 3D Math Primer for Graphics and Game Development 2nd Edition by Fletcher Dunn 
+- Foundations of Game Engine Development, Volume 1: Mathematics 1st Edition by Eric Lengyel
+- Mathematics for 3D Game Programming and Computer Graphics, Third Edition 3rd Edition by Eric Lengyel 
 Книги о математической части, необходимой для работы движков. Впрочем они будут полезными и для тех кто использует готовые движки.
 Рекомендую 3D Math Primer for Graphics and Game Development.
 
-##### Real-Time Rendering, Fourth Edition 4th Edition by Tomas Akenine-Möller, Eric Haines, Naty Hoffman
+- Real-Time Rendering, Fourth Edition 4th Edition by Tomas Akenine-Möller, Eric Haines, Naty Hoffman
 Книга о принципах работы реалтаймового рендеринга.
 
-##### Physically Based Rendering: From Theory to Implementation 3rd Edition by Matt Pharr, Wenzel Jakob, Greg Humphreys
+- Physically Based Rendering: From Theory to Implementation 3rd Edition by Matt Pharr, Wenzel Jakob, Greg Humphreys
 Книга посвященная новомодному методу физически корректного рендеринга. Книгу можно бесплатно прочесть по ссылке http://www.pbr-book.org
 
 #### Интернет-источники
@@ -59,6 +59,13 @@
 
 ##### https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT
 Цикл разработки движка.
+
+### Что почитать/посмотреть про ECS (entity component system)?
+Вот здесь собраны основные примеры: https://github.com/jslee02/awesome-entity-component-system
+Статья на русском: https://habr.com/ru/company/pixonic/blog/413729/
+Юнити подобная ECS для своего движка (на С++) - https://github.com/Ubpa/UECS
+
+
 
 # Основные движки для примеров
 
